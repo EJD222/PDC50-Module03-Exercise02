@@ -1,4 +1,4 @@
-# Module 03 - Exercise 01 (PDC50-LAB)
+# Module 03 - Exercise 02 (PDC50-LAB)
 
     Name of Student: Elmalia Jane S. Diaz
     Year and Section: BSIT4A
