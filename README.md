@@ -11,6 +11,7 @@
 - [MauiProgram.cs](Module03Exercise01/MauiProgram.cs)
 - [LoginPage.xaml](Module03Exercise01/View/LoginPage.xaml)
 - [LoginPage.xaml.cs](Module03Exercise01/View/LoginPage.xaml.cs)
+- [App.xaml.cs](Module03Exercise01/App.xaml.cs)
 
 ## Login Page with Service
 ### Output Screenshot
